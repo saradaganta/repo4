@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 local changes
+=======
+remote chnages
+>>>>>>> ff2709772694cc1f99ef226de4aaf38c1ff72061
